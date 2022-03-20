@@ -1,0 +1,11 @@
+//User login
+export const USER_LOGIN_REQUEST = "USER_LOGIN_REQUEST";
+export const USER_LOGIN_SUCCESS = "USER_LOGIN_SUCCESS";
+export const USER_LOGIN_FAIL = "USER_LOGIN_FAIL";
+// user log out
+export const USER_LOGOUT_SUCCESS = "USER_LOGOUT_SUCCESS";
+
+//User Signup
+export const USER_SIGNUP_REQUEST = "USER_SIGNUP_REQUEST";
+export const USER_SIGNUP_SUCCESS = "USER_SIGNUP_SUCCESS";
+export const USER_SIGNUP_FAIL = "USER_SIGNUP_FAIL";
